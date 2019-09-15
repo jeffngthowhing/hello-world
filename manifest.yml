@@ -1,0 +1,8 @@
+---
+applications:
+- name: jeff-hello 
+  memory: 640M
+  instances: 3 
+  services:
+  - mydatabase
+
